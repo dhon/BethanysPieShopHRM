@@ -82,14 +82,14 @@
 //Console.WriteLine(startHour.ToLongDateString());
 //Console.WriteLine(endHour.ToShortTimeString());
 
-int numberOfHoursWorked = 165;
+//int numberOfHoursWorked = 165;
 
-long veryLongMonth = numberOfHoursWorked;
+//long veryLongMonth = numberOfHoursWorked;
 
-double d = 123456789.0;
+//double d = 123456789.0;
 
-int x = (int)d;
+//int x = (int)d;
 
-int intVeryLongMonth = (int)veryLongMonth;
+//int intVeryLongMonth = (int)veryLongMonth;
 
 Console.ReadLine();
