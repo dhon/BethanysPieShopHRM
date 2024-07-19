@@ -25,3 +25,31 @@ hoursWorked = 148;
 const double interestRate = 0.07;
 
 // interestRate = 0.08;
+
+string firstName = "Bethany";
+string lastName = "Smith";
+
+string emptyString = "";
+
+// Console.WriteLine("Please enter your name");
+// string s = Console.ReadLine();
+
+double ratePerHour = 12.34;
+int numberOfHoursWorked = 165;
+
+double currentMonthWage = ratePerHour * numberOfHoursWorked;
+Console.WriteLine(currentMonthWage);
+
+ratePerHour += 3;
+Console.WriteLine(ratePerHour);
+
+if (currentMonthWage > 2000)
+    Console.WriteLine("Top paid employee!");
+
+int numberOfEmployees = 15;
+numberOfEmployees--;
+
+bool a;
+int b;
+
+Console.ReadLine();
